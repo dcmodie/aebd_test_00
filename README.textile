@@ -1,20 +1,3 @@
-h1. !http://railsapps.github.io/images/rails-36x36.jpg(Rails Application for Devise with CanCan and Twitter Bootstrap)! Rails App for Devise with CanCan and Twitter Bootstrap
-
-Rails 3.2 example application shows how to use "Devise":https://github.com/plataformatec/devise with "CanCan":https://github.com/ryanb/cancan and "Twitter Bootstrap":http://twitter.github.com/bootstrap/.
-
-* "Devise":https://github.com/plataformatec/devise gives you ready-made authentication and user management.
-* "CanCan":https://github.com/ryanb/cancan provides authorization for administrator access.
-* "Twitter Bootstrap":http://twitter.github.com/bootstrap/ is a front-end framework for CSS styling.
-
-Best of all, there's a "detailed tutorial":https://tutorials.railsapps.org/rails3-bootstrap-devise-cancan to show how it's built.
-
-You can build this application in only a few minutes using the "Rails Composer":http://railsapps.github.io/rails-composer/ tool.
-
-!http://railsapps.github.io/images/rails3-bootstrap-devise-cancan.png(Rails Application for Devise with CanCan and Twitter Bootstrap)!
-
-h2. !http://twitter-badges.s3.amazonaws.com/t_logo-a.png(Follow on Twitter)!:http://www.twitter.com/rails_apps Follow on Twitter
-
-Follow the project on Twitter: "@rails_apps":http://twitter.com/rails_apps. Please tweet some praise if you like what you've found.
 
 h2. Tutorial
 
