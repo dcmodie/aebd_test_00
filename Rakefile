@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Rails3BootstrapDeviseCancan::Application.load_tasks
+AEBD_test_00::Application.load_tasks
